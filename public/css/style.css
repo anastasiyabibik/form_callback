@@ -1,0 +1,70 @@
+.admin_pannel img{
+    width: 30px;
+    height: 30px;
+}
+.admin_pannel {
+    visibility: hidden;
+}
+.selected {
+    background-color: red;
+}
+.text_mail, .message {
+    background-color: #fff;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.6);
+    border-radius: 3px;
+    display: none;
+    position: absolute;
+    width: 405px;
+    height: auto;
+    left: 33%;
+    top: 70px;
+}
+.back::before {
+    position: absolute;
+    content: '';
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4);
+}
+.input_answer {
+    margin: 16px;
+}
+.group_botton {
+    text-align: center;
+    margin-bottom: 16px;
+}
+.botton_send {
+    margin-right: 30px;
+}
+.form_callback {
+    padding: 36px;
+    border: 1px solid #000;
+    width: 461px;
+    text-align: center;
+    margin: auto;
+}
+.send_files {
+    margin: auto;
+}
+h1 {
+    text-align: center;
+}
+.alert.alert-danger, .alert.alert-success {
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+img.close {
+    margin: 5px;
+}
+.preview {
+    position: absolute;
+    top: 0;
+    margin: 27px;
+}
+.red {
+    margin: 20px;
+    font-size: 20px;
+    color: red;
+}

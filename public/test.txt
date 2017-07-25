@@ -1,0 +1,16 @@
+POST / HTTP/1.1
+Accept:           application/json, text/javascript, */*; q=0.01
+Accept-Encoding:  gzip, deflate
+Accept-Language:  ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Connection:       keep-alive
+Content-Length:   39
+Content-Type:     application/x-www-form-urlencoded; charset=UTF-8
+Cookie:           XSRF-TOKEN=eyJpdiI6IjJWMGlmOFZQTEJ5dDBmcXN2ZWVHMEE9PSIsInZhbHVlIjoiV2NzOFZUTHZZS216a04xK2lyQU56UFZqTGxma0EwVlUxY2JIR2RibHFCQU1VTlVWMEVLMmtmV0pKRjZXWEtrdmhZZldGUmxUdGlvMlZZOGJya2dDdHc9PSIsIm1hYyI6Ijc1Y2U1Yzk5NGFkYTk0ZDAwMzVjNmM3Yjg4YTNlOGI4YTA0OTgzNDg2NDk4M2VmODc1ZjIzOWY3OWJmNmFiMTcifQ%3D%3D; laravel_session=eyJpdiI6InF5N3BFQWVQdlIyV2YweGFmbUVKNnc9PSIsInZhbHVlIjoia0RBZ0F1c3pKV3JweEhwVkxqdEV5SzFsV3RzeUoxXC80OVlDZldEYmRSZFFZVzNPRzlNc0pLS2tXVzc3ZFBTaWJiYU1ZNCs0V0RvSDZMTmxhWXZxOXpRPT0iLCJtYWMiOiI5MzQ5ZjBiMTE2ZWZiM2M1MWI2M2ZiOGMyMzZhMDlmYzRiMDVlOWNlOWU4NGJlZmViZDBiMWFkOGZhYzcwZDEwIn0%3D
+Host:             minilaravel.loc
+Origin:           http://minilaravel.loc
+Referer:          http://minilaravel.loc/
+User-Agent:       Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Mobile Safari/537.36
+X-Csrf-Token:     rk8EHZOTvacPbFsA0EH8jtle9K0Cb35kxNvlnG3e
+X-Requested-With: XMLHttpRequest
+
+name=111&question=1&email=123%40mail.ru
