@@ -26,8 +26,12 @@
           <option name="url" value="https://github.com/anastasiyabibik/Parsing.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/anastasiyabibik/pdfToHtml.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\parsing" />
+    <option name="cloneParentDir" value="D:\" />
   </component>
 </application>
